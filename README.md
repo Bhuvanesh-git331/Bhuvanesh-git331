@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bhuvanesh S
 
 
-##About Me
+👨🏻‍ About Me
 
 - 🕸️   Passionate about the Web (WWW) and I yearn to simplify web for everyone.
 - 🔭   Currently working on Front-End Development (Javascript, React, Redux) .
