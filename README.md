@@ -8,6 +8,6 @@
 - 🌱   Learning more about technologies that go into building Full Stack Applications.
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
 - 💬 Ask me about ...React js, Redux and Javasript
-- 📫 How to reach me: ...bhuvan1994456@gmail.com
+- 📫 How to reach me:(Facebook) (https://www.facebook.com/bhuvanesh.bhuvan.92/) or (Email) (bhuvan1994456@gmail.com)
 
-Tech Stack
+
