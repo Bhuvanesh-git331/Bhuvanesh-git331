@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Bhuvanesh S
 
 
-###About Me
-Here are some ideas to get you started:
+About Me
 
 - 🕸️   Passionate about the Web (WWW) and I yearn to simplify web for everyone.
 - 🔭   Currently working on Front-End Development (Javascript, React, Redux) .
@@ -11,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...React js, Redux and Javasript
 - 📫 How to reach me: ...bhuvan1994456@gmail.com
 
+Tech Stack
