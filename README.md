@@ -15,4 +15,7 @@
 -🌐  **HTML | CSS | ReactJS |Redux**
 -🔧  **GitHub | Postman**
 
+# Languages and Tools
+
+![image](https://user-images.githubusercontent.com/74610770/109201063-5ef14700-77c7-11eb-850f-f583679938bb.png) 
 
