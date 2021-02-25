@@ -17,6 +17,6 @@
 
 # Languages and Tools
 
-![image](https://user-images.githubusercontent.com/74610770/109202522-15096080-77c9-11eb-9be8-c7c68b859290.png)
+
 
 
