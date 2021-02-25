@@ -18,7 +18,8 @@
 
 # Languages and Tools
 
-![image](https://user-images.githubusercontent.com/74610770/109202738-53068480-77c9-11eb-9bca-336427b8575f.png)
+![image](https://user-images.githubusercontent.com/74610770/109203284-f8b9f380-77c9-11eb-86f0-ff493e527823.png)
+
 
 
 
