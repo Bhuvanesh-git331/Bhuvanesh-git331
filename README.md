@@ -13,6 +13,6 @@
 # 🛠 **Tech Stack**
 -💻  JavaScript | ES6
 -🌐  HTML | CSS | ReactJS |Redux
--🔧  GitHub | Postman | Styled-Component
+-🔧  GitHub | Postman 
 
 
