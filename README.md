@@ -21,7 +21,7 @@
 
 
 # 🤝🏻 Connect with me 
-[LinkedIn](https://www.linkedin.com/in/bhuvanesh-bhuvan-70b70ba0/) @Bhuvanesh-git331 
+[LinkedIn](https://www.linkedin.com/in/bhuvanesh-bhuvan-70b70ba0/) 
  
         
    
